@@ -9,6 +9,7 @@ docker-compose up -d
 ```
 
 PHPMYADMIN: [http://127.0.0.1:8000](http://127.0.0.1:8000)
+
 LOCALHOST: [http://127.0.0.1:80](http://127.0.0.1:80)
 
 Open phpmyadmin at [http://127.0.0.1:8000](http://127.0.0.1:8000)
