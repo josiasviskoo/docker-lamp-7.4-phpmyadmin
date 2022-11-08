@@ -1,16 +1,15 @@
-Watch the video 👇
+Watch the video # docker-lamp
 
-[![Watch the video](https://img.youtube.com/vi/v-r_12oezds/maxresdefault.jpg)](https://youtu.be/v-r_12oezds)
+Docker com Apache, MySQL 7.4, PHPMyAdmin and PHP.
 
-# docker-lamp
-
-Docker with Apache, MySQL 8.0, PHPMyAdmin and PHP.
-
-I use docker-compose as an orchestrator. To run these containers:
+Use sempre clonando esse repositório antes de subir
 
 ```
 docker-compose up -d
 ```
+
+PHPMYADMIN: [http://127.0.0.1:8000](http://127.0.0.1:8000)
+LOCALHOST: [http://127.0.0.1:80](http://127.0.0.1:80)
 
 Open phpmyadmin at [http://127.0.0.1:8000](http://127.0.0.1:8000)
 Open web browser to look at a simple php example at [http://127.0.0.1:80](http://127.0.0.1:80)
